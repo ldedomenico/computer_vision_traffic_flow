@@ -1,5 +1,5 @@
 
-# 🌍 Análisis de Flujo de Tráfico con Visión por Computadora 🚗📈
+# 🌍 Traffic Flow con Computer Vision 🚗📈
 
 ## Descripción del Proyecto
 

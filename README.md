@@ -19,7 +19,7 @@
 
 - Python 3.8 o superior.
 - Jupyter Notebook.
-- Librerías requeridas: `numpy`, `pandas`, `matplotlib`, `OpenCV`, entre otras.
+- Librerías requeridas: `numpy`, `pandas`, `matplotlib`, `OpenCV`, `YOLO`, `DeepSort`, `supervision`.
 
 ### Instalación
 
@@ -47,8 +47,7 @@
 ## Estructura del Proyecto
 
 - `Computer Vision - Traffic flow.ipynb`: Notebook principal para análisis y visualización.
-- `data/`: Carpeta para datasets de entrada (no incluidos en el repositorio).
-- `models/`: Carpeta para modelos preentrenados o guardados (si aplica).
+- `data/`: Carpeta para datasets de entrada (no incluidos en el repositorio ya que son datos confidenciales de YPF).
 
 ## Contribuciones
 

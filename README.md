@@ -44,10 +44,9 @@
    ```
 2. Ejecutá las celdas paso a paso para realizar el análisis de flujo de tráfico.
 
-## Estructura del Proyecto
+## 🚧 Restricciones
 
-- `Computer Vision - Traffic flow.ipynb`: Notebook principal para análisis y visualización.
-- `data/`: Carpeta para datasets de entrada (no incluidos en el repositorio ya que son datos confidenciales de YPF).
+**Nota Importante:** Por razones de confidencialidad, no se incluye en este repositorio acceso a los datos de entrada. Estos datos contienen información sensible y son de uso exclusivo interno. ✨
 
 ## Contribuciones
 

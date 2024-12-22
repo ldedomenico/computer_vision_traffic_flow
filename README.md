@@ -1,64 +1,65 @@
 
-# Computer Vision - Traffic Flow Analysis
+# 🌍 Análisis de Flujo de Tráfico con Visión por Computadora 🚗📈
 
-## Project Overview
+## Descripción del Proyecto
 
-#### **Modelo de Computer Vision**: Traffic Flow
+📹 Este proyecto desarrolla un modelo de inteligencia artificial para el conteo y análisis de vehículos utilizando las cámaras de las Estaciones de Servicio OPESSA. El objetivo es optimizar la detección y el análisis de patrones de tráfico mediante técnicas avanzadas de visión por computadora.
 
-En este notebook, se desarrollará un modelo de AI para el conteo de vehículos utilizando las **cámaras** de las Estaciones de Servicio OPESSA.
+## Características
 
-## Features
+- 🚦 **Detección de Tráfico**: Identificación y análisis de patrones en el flujo vehicular.
+- 🧠 **Técnicas Avanzadas**: Uso de algoritmos de última generación en visión por computadora.
+- 📊 **Visualización de Resultados**: Representaciones gráficas claras y útiles.
 
-- **Traffic Detection**: Identify and analyze traffic patterns.
-- **Computer Vision Techniques**: Leveraging state-of-the-art algorithms.
-- **Data Visualization**: Clear and insightful visualizations of results.
+## Cómo Comenzar
 
-## Getting Started
+### Requisitos Previos
 
-### Prerequisites
+⚙️ Asegurate de contar con lo siguiente antes de empezar:
 
-- Python 3.8+
-- Jupyter Notebook
-- Required libraries: numpy, pandas, matplotlib, OpenCV, etc.
+- Python 3.8 o superior.
+- Jupyter Notebook.
+- Librerías requeridas: `numpy`, `pandas`, `matplotlib`, `OpenCV`, entre otras.
 
-### Installation
+### Instalación
 
-1. Clone this repository:
+1. Cloná este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/yourusername/traffic-flow-analysis.git
    ```
-2. Navigate to the project directory:
+2. Accedé al directorio del proyecto:
    ```bash
    cd traffic-flow-analysis
    ```
-3. Install dependencies:
+3. Instalá las dependencias necesarias:
    ```bash
    pip install -r requirements.txt
    ```
 
-### Usage
+### Uso
 
-1. Open the Jupyter Notebook:
+1. Abrí el archivo del notebook en Jupyter:
    ```bash
    jupyter notebook Computer\ Vision\ -\ Traffic\ flow.ipynb
    ```
-2. Run the cells step-by-step to execute the analysis.
+2. Ejecutá las celdas paso a paso para realizar el análisis de flujo de tráfico.
 
-## Project Structure
+## Estructura del Proyecto
 
-- `Computer Vision - Traffic flow.ipynb`: Main notebook for analysis and visualization.
-- `data/`: Folder for input datasets (not included in the repository).
-- `models/`: Pre-trained models or saved models (if any).
+- `Computer Vision - Traffic flow.ipynb`: Notebook principal para análisis y visualización.
+- `data/`: Carpeta para datasets de entrada (no incluidos en el repositorio).
+- `models/`: Carpeta para modelos preentrenados o guardados (si aplica).
 
-## Contributing
+## Contribuciones
 
-Contributions are welcome! Please feel free to submit a pull request or open an issue.
+🙌 Las contribuciones son bienvenidas. Si querés colaborar, no dudes en abrir un issue o enviar un pull request.
 
-## License
+## Licencia
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Este proyecto está bajo la Licencia MIT. Podés consultar más detalles en el archivo [LICENSE](LICENSE).
 
-## Acknowledgments
+## Agradecimientos
 
-- OpenCV documentation and tutorials.
-- Python libraries for data science.
+💡 Este proyecto se beneficia de:
+- La documentación y tutoriales de OpenCV.
+- Librerías de Python para ciencia de datos y visualización.
